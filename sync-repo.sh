@@ -14,7 +14,7 @@ git add .
 git commit -m "Updated"
 
 # push changes to remote repository on branch 'main'
-git push
+git push origin main
 
 
 
