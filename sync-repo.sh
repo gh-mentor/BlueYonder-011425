@@ -14,9 +14,8 @@ git add .
 git commit -m "Updated"
 
 # push changes to remote repository on branch 'main'
-git push origin main
+git push
 
-# Echo a message to the console that the script has finished running
-echo "Synced changes between local and remote repository on branch 'main'."
+
 
 
